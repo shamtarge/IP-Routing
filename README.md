@@ -5,7 +5,7 @@
 * When a data packet arrives at a router port, the router reads address information in packet to determine which port the packet will be sent.
 
 #What my project does:
-*It takes multiple data packet's Network IP Address as input and outputs the Destination Gateway IP Address and Port IP.
+* It takes multiple data packet's Network IP Address as input and outputs the Destination Gateway IP Address and Port IP.
 
 #Snapshot:
 
